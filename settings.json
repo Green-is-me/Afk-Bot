@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "A1mcserver.aternos.me:30137",
+    "port": 30137,
     "version": "1.19.3"
   },
 
